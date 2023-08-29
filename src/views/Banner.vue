@@ -17,12 +17,7 @@
         </div>
         <div class="flex items-center">
           <a href="/produk" class="bg-sky-400a mr-6 inline-flex h-12 items-center justify-center rounded-full bg-gradient-to-r from-blue-400 to-sky-400 px-8 font-medium tracking-wide text-white shadow-lg shadow-sky-300 outline-none transition duration-200 hover:scale-110 hover:bg-sky-500 focus:ring"> Mulai Belanja </a>
-          <a href="https://youtu.be/OvoizAEtR0Y" class="inline-flex items-center font-semibold text-sky-400 transition-colors duration-200 hover:text-navy-400">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mr-2 h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
-              <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
-            </svg>
-            Watch Videos</a
-          >
+      
         </div>
       </div>
     </div>

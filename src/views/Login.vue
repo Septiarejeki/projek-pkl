@@ -36,11 +36,11 @@
                         <a href="#"
                             class="flex cursor-pointer items-center gap-2 text-indigo-500 no-underline hover:text-indigo-500">
                             <span
-                                class="flex-shrink-0 text-3xl font-black lowercase tracking-tight opacity-100">ERIGO</span>
+                                class="flex-shrink-0 text-3xl font-black lowercase tracking-tight opacity-100">Login</span>
                         </a>
                     </div>
                     <!-- /Logo -->
-                    <h4 class="mb-2 font-medium text-gray-700 xl:text-xl">Selamat Datang Di Erigo!</h4>
+                    <h4 class="mb-2 font-medium text-gray-700 xl:text-xl">Selamat Datang Di EnhaStore!</h4>
                     <p class="mb-6 text-gray-500">Silahkan Login Terlebih Dahulu</p>
 
                     <form id="" class="mb-4" @submit.prevent="performLogin">
