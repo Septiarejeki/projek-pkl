@@ -43,7 +43,7 @@
                             <div class="lg:order-2 lg:ml-5">
                                 <div class="max-w-xl overflow-hidden rounded-lg">
                                     <img class="h-full w-full max-w-full object-cover"
-                                        src="../assets/album3.webp"
+                                        src="https://www.insakoreanstore.com/cdn/shop/products/enhypenmanifestoverengeneset.jpg?v=1655231018"
                                         alt="" />
                                 </div>
                             </div>
@@ -53,19 +53,19 @@
                                     <button type="button"
                                         class="flex-0 aspect-square mb-3 h-20 overflow-hidden rounded-lg border-2 border-gray-900 text-center">
                                         <img class="h-full w-full object-cover"
-                                            src="../assets/m.jpg" 
+                                            src="https://target.scene7.com/is/image/Target/GUEST_76e477bf-0209-4333-bb48-a1f0ed3f5548?qlt=65&fmt=pjpeg&hei=350&wid=350" 
                                             alt="" />
                                     </button>
                                     <button type="button"
                                         class="flex-0 aspect-square mb-3 h-20 overflow-hidden rounded-lg border-2 border-transparent text-center">
                                         <img class="h-full w-full object-cover"
-                                            src="../assets/j.webp"
+                                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVt0F5HED5byOIYw_5RanbHdIIx8s65vSgGZQiQhk8TioUFW759g8fWQAkJFRuDQ6-HOc&usqp=CAU"
                                             alt="" />
                                     </button>
                                     <button type="button"
                                         class="flex-0 aspect-square mb-3 h-20 overflow-hidden rounded-lg border-2 border-transparent text-center">
                                         <img class="h-full w-full object-cover"
-                                            src="../assets/D.png"
+                                            src="https://universalmusiconline.es/cdn/shop/products/ENHYPEN-MANIFESTODAY1MENGENEver.jpg?v=1663152355"
                                             alt="" />
                                     </button>
                                 </div>

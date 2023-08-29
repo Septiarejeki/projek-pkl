@@ -41,7 +41,7 @@
         <div class="mt-8 space-y-3 rounded-lg border bg-white px-2 py-4 sm:px-6">
           <div v-for="product in getCart" :key="product.cart_id" class="flex flex-col rounded-lg bg-white sm:flex-row">
             <img class="m-2 h-24 w-28 rounded-md border object-cover object-center"
-              src="../assets/album.jpg"
+              src="https://www.insakoreanstore.com/cdn/shop/products/enhypenmanifestoverengeneset.jpg?v=1655231018"
               alt="" />
             <div class="flex w-full flex-col px-4 py-4">
               <span class="font-semibold">{{ product.name }}</span>
