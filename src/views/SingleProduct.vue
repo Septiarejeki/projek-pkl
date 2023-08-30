@@ -134,7 +134,7 @@
                                     class="cursor-pointer rounded-r bg-gray-100 py-1 px-3 duration-100 hover:bg-black hover:text-yellow-50">
                                     + </span>
                             </div>
-                            <h2 class="font-bold text-black truncate mt-2">Stock : {{ product.stock }}</h2>
+                            <h2 class="font-bold text-black truncate mt-2"></h2>
                         </div>
 
                         <div
